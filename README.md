@@ -16,6 +16,7 @@ Claude는 코딩 도구가 아닙니다. **업무를 자동화하고**, Connecto
 |------|------|
 | [Claude 활용 가이드](docs/10-non-engineer-guide.md) | Cowork, Connector, Claude Code 소개 + 직군별 활용 사례 |
 | [시작하기 (Claude Code)](docs/01-getting-started.md) | Claude Code 설치, 인증, 첫 실행, 핵심 명령어 |
+| [프롬프팅 패턴](docs/05-prompting-patterns.md) | 효과적인 요청 방법, 7가지 패턴, 안티패턴 |
 | [컨텍스트 관리](docs/07-context-management.md) | 사용량 확인, 토큰 절약, 세션 규칙 |
 
 ## /claude-guide 설치 방법
