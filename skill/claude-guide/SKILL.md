@@ -16,6 +16,14 @@ user-invocable: true
 4. 공식 문서 링크가 있으면 마지막에 "참고: [링크]" 형태로 추가하세요.
 5. 비엔지니어도 이해할 수 있는 수준으로 설명하세요. 기술 용어는 간단히 풀어서 설명하세요.
 
+## 내장 에이전트: claude-code-guide
+
+Claude Code에는 `claude-code-guide`라는 내장 서브에이전트가 있습니다. 아래 참조 문서에서 답을 찾기 어려운 경우, 이 에이전트를 통해 최신 공식 문서를 직접 조회할 수 있습니다.
+
+```
+Agent(subagent_type="claude-code-guide", prompt="질문 내용")
+```
+
 ## 참조 문서
 
 @reference/02-claude-md.md
